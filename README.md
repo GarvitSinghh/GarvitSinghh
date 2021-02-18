@@ -13,17 +13,17 @@
 
 ### Languages and Tools
 
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808796892720922624/csharp.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808793940736212992/python.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808797396150648842/dart.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808797107611631626/arduino.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808795355395129374/unity.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808803583788843038/blender.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808796042615062579/tensorflow.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808796361272066058/flutter.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808798854626541618/git.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808799193258655776/github.png"></code>
-<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811748600593907722/unknown.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939467375673355/csharp.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939469514637312/python.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939460270522368/dart.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939454998020116/arduino.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939505383669780/unity.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939456117768212/blender.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939470970322954/tensorflow.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939461016846386/flutter.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939463453999134/git.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939466516103168/github.png"></code>
+<code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/811939468910133318/p5js.png"></code>
 
 <hr>
 
