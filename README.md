@@ -29,4 +29,4 @@
 
 ### My Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=natsudragneel-x&show_icons=true&hide_border=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=GarvitSinghh&show_icons=true&hide_border=true&theme=radical)
