@@ -3,9 +3,6 @@
 ### About Me
 
 - 👨‍🎓 I’m currently a student in Grade 12
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter and Unity Projects.
-- 📫 Reach out to me: [Instagram](https://www.instagram.com/g_minor_/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am god
 
