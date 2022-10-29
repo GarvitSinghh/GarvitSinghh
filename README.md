@@ -1,11 +1,5 @@
 # Hi, I am Garvit Singh 👋
 
-### About Me
-
-- 👨‍🎓 I’m currently a student in Grade 12
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am god
-
 <hr>
 
 ### Languages and Tools
